@@ -222,8 +222,6 @@ const numbersOfLetters = function (array) {
       case "z":
         numbersArray.push(23);
         break;
-      default:
-        break;
     }
   }
   return numbersArray;
