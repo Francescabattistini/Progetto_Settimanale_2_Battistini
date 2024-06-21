@@ -83,6 +83,13 @@ main {
   object-fit: cover;
   box-shadow: 10px 10px 45px -18px rgba(0, 0, 0, 0.5);
 }
+.card {
+  margin-bottom: 2em;
+}
+.card img {
+  width: 100%;
+  margin-bottom: 0.5em;
+}
 .blue-text {
   color: #196b6f;
   font-size: 0.8em;
