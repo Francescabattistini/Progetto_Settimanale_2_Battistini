@@ -96,3 +96,23 @@ main {
   margin-left: 1em;
   text-decoration: none;
 }
+footer {
+  text-align: center;
+  background-color: #232f3d;
+}
+
+#back-to-top {
+  background-color: #485769;
+  padding: 1em 0;
+}
+
+#back-to-top a {
+  color: white;
+  font-size: 1.5em;
+  font-weight: 550;
+}
+
+footer img {
+  width: 250px;
+  padding: 5em 0;
+}
