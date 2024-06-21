@@ -99,19 +99,20 @@ main {
 footer {
   text-align: center;
 }
-
 #back-to-top {
-  background-color: #485769;
-  padding: 1em;
+  background-color: #364759;
+  padding: 1em 0;
 }
-
 #back-to-top a {
   color: white;
   font-size: 1.5em;
   font-weight: 550;
 }
-
 footer img {
   width: 250px;
   padding: 5em 0;
+}
+.click:hover {
+  text-decoration: dotted;
+  cursor: pointer;
 }
