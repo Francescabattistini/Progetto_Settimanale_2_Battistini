@@ -14,7 +14,15 @@ header img {
 .colorBlu {
   background-color: #222f3f;
 }
-/* nav {
-  background-color: #232f3d;
+nav {
+  background-color: #364759;
   padding: 1em 2em;
-} */
+  max-height: 0.5em;
+}
+li {
+  text-decoration: none;
+  color: white;
+  text-decoration: none;
+  margin: 0 0.5em;
+  display: inline;
+}
